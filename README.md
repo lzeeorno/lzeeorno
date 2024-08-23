@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at **[my project summary](https://www.yuque.com/docs/share/5c3ef2a1-cdca-4cd9-8def-aeafb2810c3a?#)**.
 - 📝 I regularly write articles on **Medical Image Segmentation**.
 - 💬 Ask me about **AI technology applications in healthcare and studying abroad**.
-- 📄 Know about my experiences [MaiMai](https://maimai.cn/profile/detail?dstu=236066636)/[Personal Homepage](https://lzeeorno.github.io/)/[ORCiD]([https://maimai.cn/profile/detail?dstu=236066636](https://orcid.org/0009-0001-8589-7026).
+- 📄 Know about my experiences [MaiMai](https://maimai.cn/profile/detail?dstu=236066636)/[Personal Homepage](https://lzeeorno.github.io/)/[ORCiD](https://orcid.org/0009-0001-8589-7026).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
