@@ -31,27 +31,3 @@
    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Education Background:</h3>
-<ul>
-   <li>2023/08-present: PhD in Computer Science at CAS (SIAT) & University of Macau<br>Research Area: Computer Vision, Medical Imaging</li>
-   <li>2021/09-2023/06: Master in Data Science and Analytics at The Hong Kong Polytechnic University<br>GPA: 3.55/4, Relevant Courses: Optimization Methods, Deep Learning, Big Data Computing, etc.</li>
-   <li>2016/09-2021/03: Bachelor in Computing Science and Mathematics at University of Alberta<br>GPA: 3/4, Relevant Courses: Image Processing, Face Recognition, Cryptography, etc.</li>
-   <li>2015/09-2016/04: Bachelor in Physics at University of Toronto (Transferred to University of Alberta)</li>
-</ul>
-
-<h3 align="left">Working Experiences:</h3>
-<ul>
-   <li>2020/07-2020/09: Data Analyst Intern at Tencent<br>Conducted statistical analysis on news retrieval behaviors.</li>
-   <li>2021/03-2021/07: Python Instructor at Codemao Technology<br>Taught Python to teenagers and compiled teaching materials.</li>
-   <li>2023/01-2023/08: Research Assistant at SIAT<br>Assisted in medical imaging research, including patents, software works, and publications.</li>
-</ul>
-
-<h3 align="left">Project Experiences:</h3>
-<ul>
-   <li>Kaggle House Price Prediction Competition: Used statistical methods and XgBoost for predictions.</li>
-   <li>Face Attendance Check-in System</li>
-   <li>English Spam Classification System Based on RNN and LSTM</li>
-   <li>Drug Rating Recommendation System Based on User Comments</li>
-   <li>Cat and Dog Photo Recognition Using a Self-Made 5-Layer CNN Model</li>
-</ul>
-
