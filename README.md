@@ -4,12 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lzeeorno&label=Profile%20views&color=0e75b6&style=flat" alt="lzeeorno" /> </p>
 
 - 🔭 I’m currently working on **computer vision and medical imaging research**.
-- 🌱 I’m currently learning **advanced techniques in medical image analysis and deep learning**.
-- 👯 I’m looking to collaborate on **AI applications in healthcare and data science projects**.
-- 🤝 I’m looking for help with **research opportunities and guidance on publications in medical imaging**.
+- 🌱 I’m currently learning **advanced techniques in deep learning**.
+- 👯 I’m looking to collaborate on **Academic Research Paper on Deep Learning**.
+- 🤝 I’m looking for help with **research opportunities and guidance on publications in deep learning**.
 - 👨‍💻 All of my projects are available at **[my project summary](https://www.yuque.com/docs/share/5c3ef2a1-cdca-4cd9-8def-aeafb2810c3a?#)**.
-- 📝 I regularly write articles on **Medical Image Segmentation**.
-- 💬 Ask me about **AI technology applications in healthcare and studying abroad**.
+- 📝 I regularly write articles on **Deep learning on Computer Vision**.
 - 📄 Know about my experiences [MaiMai](https://maimai.cn/profile/detail?dstu=236066636)/[Personal Homepage](https://lzeeorno.github.io/)/[ORCiD](https://orcid.org/0009-0001-8589-7026).
 
 <h3 align="left">Connect with me:</h3>
